@@ -12,7 +12,7 @@
 or
 
 ```bash
-  git clone https://github.com/tjdalsckd/mr_urdf_loader.git
+  git clone https://github.com/Unity-Billal-mesloub/mr_urdf_loader.git
   cd mr_urdf_loader
   pip install .
 ```
